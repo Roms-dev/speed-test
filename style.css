@@ -1,0 +1,44 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  button {
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #start {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+  }
+  
+  #stop {
+    background-color: #f44336;
+    color: white;
+    border: none;
+  }
+  
+  #status {
+    font-size: 24px;
+    margin-top: 30px;
+  }
+  
+  #result {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+  }
